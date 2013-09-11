@@ -1,0 +1,10 @@
+INSTALLATION
+
+Put this file into a web reachable folder or any folder if you plan to run it through the command line.
+
+Ways of use:
+
+1. From web realm: http://localhost/bandsintown.php?artist_name=Alicia%20Keys
+2. From CLI: php bandsintown.php Alicia Keys
+
+The return value is a JSON object with all of the events found for the artist.
